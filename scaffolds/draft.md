@@ -5,6 +5,7 @@ categories:
     - Development
     - Culture
     - Daily
+    - Product
 tags:
 cover_image: {{ "images/" }}
 ---

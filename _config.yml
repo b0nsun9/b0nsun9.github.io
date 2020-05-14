@@ -5,9 +5,9 @@
 # Site
 title: On The Code
 subtitle:
-description: 중구난방블로그
-author: David Koo
-language: en
+description: 
+author: Bonsung Koo
+language: ko
 timezone: Asia/Seoul
 
 # URL
@@ -78,5 +78,10 @@ theme: standrews
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Koosj/Koosj.github.io
-  branch: master
+  repo:
+    github:
+      url: https://github.com/Koosj/Koosj.github.io.git
+      branch: master
+      token: $GITHUB_TOKEN
+  name: Bonsung Koo
+  email: koosj@koosj.io

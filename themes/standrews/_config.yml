@@ -1,9 +1,7 @@
 # Header
 menu:
   All: /
-  Development: /categories/Development/index.html
-  Culture: /categories/Culture/index.html
-  Daily: /categories/Daily/index.html
+  MINI: /categories/MINI/index.html
   Product: /categories/Product/index.html
   #About: /about
   #Contact: /contact
@@ -19,10 +17,10 @@ google_analytics:
 
 # Social Accounts
 email_url: 
-twitter_url: https://twitter.com/Koosjn?lang=en
+twitter_url: 
 facebook_url: https://www.facebook.com/profile.php?id=100011494121449
-instagram_url: https://www.instagram.com/koosjn/
-linkedin_url: https://www.linkedin.com/in/david-koo-302616a7/
+instagram_url: 
+linkedin_url: 
 dribbble_url:
 github_url: https://github.com/Koosj
 googleplus_url:

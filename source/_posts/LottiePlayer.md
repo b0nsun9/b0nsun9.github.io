@@ -7,6 +7,8 @@ date: 2017-09-12 00:35:35
 tags:
 ---
 
+# Lottie Player Privacy policy
+Lottie Player deos not collect personal infomation.
 
 # Lottie Player
 Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with bodymovin and renders the vector animations natively on mobile and through React Native!

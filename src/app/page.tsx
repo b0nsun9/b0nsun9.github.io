@@ -16,7 +16,7 @@ export default function Home() {
     >
       <div>
         <p style={{  fontSize: "60px", textAlign: "center" }}>
-          {"Bonsung's blog is comming!"}
+          {"Bonsung's blog is coming!"}
         </p>
         <br />
         <p style={{  fontSize: "60px", textAlign: "center" }}>

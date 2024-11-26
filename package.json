@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "next build",
-    "deploy": "next build && touch ./out/.nojekyll && gh-pages -d out --branch master --cname bonsung.me"
+    "deploy": "next build && gh-pages -d out --branch master"
   },
   "dependencies": {
     "next": "15.0.3",

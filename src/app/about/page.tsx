@@ -16,7 +16,7 @@ export default function About() {
     >
       <div>
         <p style={{  fontSize: "60px", textAlign: "center" }}>
-          {"Bonsung's profile is comming!"}
+          {"Bonsung's profile is coming!"}
         </p>
         <br />
         <p style={{  fontSize: "60px", textAlign: "center" }}>

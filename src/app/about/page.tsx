@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 
-export default function Home() {
+export default function About() {
   return (
     <div
       style={
@@ -16,7 +16,7 @@ export default function Home() {
     >
       <div>
         <p style={{  fontSize: "60px", textAlign: "center" }}>
-          {"Bonsung's blog is comming!"}
+          {"Bonsung's profile is comming!"}
         </p>
         <br />
         <p style={{  fontSize: "60px", textAlign: "center" }}>

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Link from "next/link";
+import BlogHeader from "@/components/BlogHeader/BlogHeader";
 
 export const metadata: Metadata = {
   title: "On The Code",
@@ -15,6 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <BlogHeader></BlogHeader>
         {children}
       </body>
     </html>
